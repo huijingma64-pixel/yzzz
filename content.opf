@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 21.0" />
+		<meta name="cover" content="x1.png" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>yy</dc:title>
+		<dc:date>2025-12-19T03:20:03Z</dc:date>
+		<dc:language>en</dc:language>
+		<meta property="dcterms:modified">2025-12-19T03:20:03Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">none</meta>
+		<!--accessibility options-->
+	</metadata>
+	<manifest>
+		<item id="yy-1" href="yy-1.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-2" href="yy-2.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-3" href="yy-3.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-4" href="yy-4.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-5" href="yy-5.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-6" href="yy-6.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-7" href="yy-7.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-8" href="yy-8.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-9" href="yy-9.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-10" href="yy-10.xhtml" media-type="application/xhtml+xml" />
+		<item id="yy-11" href="yy-11.xhtml" media-type="application/xhtml+xml" />
+		<item id="yy-12" href="yy-12.xhtml" media-type="application/xhtml+xml" />
+		<item id="yy-13" href="yy-13.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-14" href="yy-14.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-15" href="yy-15.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-16" href="yy-16.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-17" href="yy-17.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-18" href="yy-18.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-19" href="yy-19.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-20" href="yy-20.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-21" href="yy-21.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-22" href="yy-22.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-23" href="yy-23.xhtml" media-type="application/xhtml+xml" properties="scripted" />
+		<item id="yy-24" href="yy-24.xhtml" media-type="application/xhtml+xml" />
+		<item id="yy-25" href="yy-25.xhtml" media-type="application/xhtml+xml" />
+		<item id="yy-26" href="yy-26.xhtml" media-type="application/xhtml+xml" />
+		<item id="yy-27" href="yy-27.xhtml" media-type="application/xhtml+xml" />
+		<item id="yy-28" href="yy-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="ttsmaker-file-2025-12-11-2-3-41.mp3" href="audio/ttsmaker-file-2025-12-11-2-3-41.mp3" media-type="audio/mpeg" />
+		<item id="ttsmaker-file-2025-12-11-9-35-14.mp3" href="audio/ttsmaker-file-2025-12-11-9-35-14.mp3" media-type="audio/mpeg" />
+		<item id="上山虎.mp3" href="audio/%E4%B8%8A%E5%B1%B1%E8%99%8E.mp3" media-type="audio/mpeg" />
+		<item id="九龙钻.mp3" href="audio/%E4%B9%9D%E9%BE%99%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="入山虎.mp3" href="audio/%E5%85%A5%E5%B1%B1%E8%99%8E.mp3" media-type="audio/mpeg" />
+		<item id="双沟钻.mp3" href="audio/%E5%8F%8C%E6%B2%9F%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="四方钻.mp3" href="audio/%E5%9B%9B%E6%96%B9%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="地钻.mp3" href="audio/%E5%9C%B0%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="大红钻.mp3" href="audio/%E5%A4%A7%E7%BA%A2%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="大钻.mp3" href="audio/%E5%A4%A7%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="小红钻.mp3" href="audio/%E5%B0%8F%E7%BA%A2%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="小钻.mp3" href="audio/%E5%B0%8F%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="槟榔钻.mp3" href="audio/%E6%A7%9F%E6%A6%94%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="橙九牛.mp3" href="audio/%E6%A9%99%E4%B9%9D%E7%89%9B.mp3" media-type="audio/mpeg" />
+		<item id="毛老虎.mp3" href="audio/%E6%AF%9B%E8%80%81%E8%99%8E.mp3" media-type="audio/mpeg" />
+		<item id="猛老虎.mp3" href="audio/%E7%8C%9B%E8%80%81%E8%99%8E.mp3" media-type="audio/mpeg" />
+		<item id="白九牛.mp3" href="audio/%E7%99%BD%E4%B9%9D%E7%89%9B.mp3" media-type="audio/mpeg" />
+		<item id="白钻.mp3" href="audio/%E7%99%BD%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="紫九牛.mp3" href="audio/%E7%B4%AB%E4%B9%9D%E7%89%9B.mp3" media-type="audio/mpeg" />
+		<item id="红九牛.mp3" href="audio/%E7%BA%A2%E4%B9%9D%E7%89%9B.mp3" media-type="audio/mpeg" />
+		<item id="绿九牛.mp3" href="audio/%E7%BB%BF%E4%B9%9D%E7%89%9B.mp3" media-type="audio/mpeg" />
+		<item id="葫芦钻.mp3" href="audio/%E8%91%AB%E8%8A%A6%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="蓝九牛.mp3" href="audio/%E8%93%9D%E4%B9%9D%E7%89%9B.mp3" media-type="audio/mpeg" />
+		<item id="铁钻.mp3" href="audio/%E9%93%81%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="铜钻.mp3" href="audio/%E9%93%9C%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="青九牛.mp3" href="audio/%E9%9D%92%E4%B9%9D%E7%89%9B.mp3" media-type="audio/mpeg" />
+		<item id="麻骨钻.mp3" href="audio/%E9%BA%BB%E9%AA%A8%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="黄九牛.mp3" href="audio/%E9%BB%84%E4%B9%9D%E7%89%9B.mp3" media-type="audio/mpeg" />
+		<item id="黄钻.mp3" href="audio/%E9%BB%84%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="黑九牛.mp3" href="audio/%E9%BB%91%E4%B9%9D%E7%89%9B.mp3" media-type="audio/mpeg" />
+		<item id="黑钻.mp3" href="audio/%E9%BB%91%E9%92%BB.mp3" media-type="audio/mpeg" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" properties="cover-image" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x13.png" href="image/13.png" media-type="image/png" />
+		<item id="x14.png" href="image/14.png" media-type="image/png" />
+		<item id="x15.png" href="image/15.png" media-type="image/png" />
+		<item id="x16.png" href="image/16.png" media-type="image/png" />
+		<item id="x17.png" href="image/17.png" media-type="image/png" />
+		<item id="x18.png" href="image/18.png" media-type="image/png" />
+		<item id="x19.png" href="image/19.png" media-type="image/png" />
+		<item id="x2.png" href="image/2.png" media-type="image/png" />
+		<item id="x20.png" href="image/20.png" media-type="image/png" />
+		<item id="x21.png" href="image/21.png" media-type="image/png" />
+		<item id="x22.png" href="image/22.png" media-type="image/png" />
+		<item id="x23.png" href="image/23.png" media-type="image/png" />
+		<item id="x24.png" href="image/24.png" media-type="image/png" />
+		<item id="x25.png" href="image/25.png" media-type="image/png" />
+		<item id="x26.png" href="image/26.png" media-type="image/png" />
+		<item id="x27.png" href="image/27.png" media-type="image/png" />
+		<item id="x28.png" href="image/28.png" media-type="image/png" />
+		<item id="x29.png" href="image/29.png" media-type="image/png" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="x30.png" href="image/30.png" media-type="image/png" />
+		<item id="x32.png" href="image/32.png" media-type="image/png" />
+		<item id="x33.png" href="image/33.png" media-type="image/png" />
+		<item id="x34.png" href="image/34.png" media-type="image/png" />
+		<item id="x35.png" href="image/35.png" media-type="image/png" />
+		<item id="x36.png" href="image/36.png" media-type="image/png" />
+		<item id="x37.png" href="image/37.png" media-type="image/png" />
+		<item id="x38.png" href="image/38.png" media-type="image/png" />
+		<item id="x39.png" href="image/39.png" media-type="image/png" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="x40.png" href="image/40.png" media-type="image/png" />
+		<item id="x41.png" href="image/41.png" media-type="image/png" />
+		<item id="x42.png" href="image/42.png" media-type="image/png" />
+		<item id="x43.png" href="image/43.png" media-type="image/png" />
+		<item id="x45.png" href="image/45.png" media-type="image/png" />
+		<item id="x46.png" href="image/46.png" media-type="image/png" />
+		<item id="x47.png" href="image/47.png" media-type="image/png" />
+		<item id="x48.png" href="image/48.png" media-type="image/png" />
+		<item id="x49.png" href="image/49.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x50.png" href="image/50.png" media-type="image/png" />
+		<item id="x51.png" href="image/51.png" media-type="image/png" />
+		<item id="x52.png" href="image/52.png" media-type="image/png" />
+		<item id="x53.png" href="image/53.png" media-type="image/png" />
+		<item id="x54.png" href="image/54.png" media-type="image/png" />
+		<item id="x55.png" href="image/55.png" media-type="image/png" />
+		<item id="x56.png" href="image/56.png" media-type="image/png" />
+		<item id="x57.png" href="image/57.png" media-type="image/png" />
+		<item id="x58.png" href="image/58.png" media-type="image/png" />
+		<item id="x59.png" href="image/59.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x60.png" href="image/60.png" media-type="image/png" />
+		<item id="x61.png" href="image/61.png" media-type="image/png" />
+		<item id="x62.png" href="image/62.png" media-type="image/png" />
+		<item id="x63.png" href="image/63.png" media-type="image/png" />
+		<item id="x64.png" href="image/64.png" media-type="image/png" />
+		<item id="x65.png" href="image/65.png" media-type="image/png" />
+		<item id="x66.png" href="image/66.png" media-type="image/png" />
+		<item id="x67.png" href="image/67.png" media-type="image/png" />
+		<item id="x68.png" href="image/68.png" media-type="image/png" />
+		<item id="x69.png" href="image/69.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x70.png" href="image/70.png" media-type="image/png" />
+		<item id="x71.png" href="image/71.png" media-type="image/png" />
+		<item id="x72.png" href="image/72.png" media-type="image/png" />
+		<item id="x73.png" href="image/73.png" media-type="image/png" />
+		<item id="x74.png" href="image/74.png" media-type="image/png" />
+		<item id="x75.png" href="image/75.png" media-type="image/png" />
+		<item id="x76.png" href="image/76.png" media-type="image/png" />
+		<item id="x77.png" href="image/77.png" media-type="image/png" />
+		<item id="x78.png" href="image/78.png" media-type="image/png" />
+		<item id="x79.png" href="image/79.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x80.png" href="image/80.png" media-type="image/png" />
+		<item id="x81.png" href="image/81.png" media-type="image/png" />
+		<item id="x82.png" href="image/82.png" media-type="image/png" />
+		<item id="x83.png" href="image/83.png" media-type="image/png" />
+		<item id="x84.png" href="image/84.png" media-type="image/png" />
+		<item id="x85.png" href="image/85.png" media-type="image/png" />
+		<item id="x87.png" href="image/87.png" media-type="image/png" />
+		<item id="x88.png" href="image/88.png" media-type="image/png" />
+		<item id="x89.png" href="image/89.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="x90.png" href="image/90.png" media-type="image/png" />
+		<item id="x91.png" href="image/91.png" media-type="image/png" />
+		<item id="x92.png" href="image/92.png" media-type="image/png" />
+		<item id="x93.png" href="image/93.png" media-type="image/png" />
+		<item id="x94.png" href="image/94.png" media-type="image/png" />
+		<item id="x95.png" href="image/95.png" media-type="image/png" />
+		<item id="x96.png" href="image/96.png" media-type="image/png" />
+		<item id="x97.png" href="image/97.png" media-type="image/png" />
+		<item id="x98.png" href="image/98.png" media-type="image/png" />
+		<item id="瑶药-02.jpg" href="image/%E7%91%B6%E8%8D%AF-02.jpg" media-type="image/jpeg" />
+		<item id="瑶药-03.jpg" href="image/%E7%91%B6%E8%8D%AF-03.jpg" media-type="image/jpeg" />
+		<item id="瑶药-04.jpg" href="image/%E7%91%B6%E8%8D%AF-04.jpg" media-type="image/jpeg" />
+		<item id="瑶药-05.jpg" href="image/%E7%91%B6%E8%8D%AF-05.jpg" media-type="image/jpeg" />
+		<item id="瑶药-06.jpg" href="image/%E7%91%B6%E8%8D%AF-06.jpg" media-type="image/jpeg" />
+		<item id="瑶药-07.jpg" href="image/%E7%91%B6%E8%8D%AF-07.jpg" media-type="image/jpeg" />
+		<item id="瑶药-08.jpg" href="image/%E7%91%B6%E8%8D%AF-08.jpg" media-type="image/jpeg" />
+		<item id="瑶药-09.jpg" href="image/%E7%91%B6%E8%8D%AF-09.jpg" media-type="image/jpeg" />
+		<item id="瑶药-10.jpg" href="image/%E7%91%B6%E8%8D%AF-10.jpg" media-type="image/jpeg" />
+		<item id="瑶药-11.jpg" href="image/%E7%91%B6%E8%8D%AF-11.jpg" media-type="image/jpeg" />
+		<item id="瑶药-12.jpg" href="image/%E7%91%B6%E8%8D%AF-12.jpg" media-type="image/jpeg" />
+		<item id="瑶药-13.jpg" href="image/%E7%91%B6%E8%8D%AF-13.jpg" media-type="image/jpeg" />
+		<item id="瑶药-14.jpg" href="image/%E7%91%B6%E8%8D%AF-14.jpg" media-type="image/jpeg" />
+		<item id="瑶药-15.jpg" href="image/%E7%91%B6%E8%8D%AF-15.jpg" media-type="image/jpeg" />
+		<item id="瑶药-16.jpg" href="image/%E7%91%B6%E8%8D%AF-16.jpg" media-type="image/jpeg" />
+		<item id="瑶药-17.jpg" href="image/%E7%91%B6%E8%8D%AF-17.jpg" media-type="image/jpeg" />
+		<item id="瑶药-21.png" href="image/%E7%91%B6%E8%8D%AF-21.png" media-type="image/png" />
+		<item id="瑶药-22.jpg" href="image/%E7%91%B6%E8%8D%AF-22.jpg" media-type="image/jpeg" />
+		<item id="瑶药-23.jpg" href="image/%E7%91%B6%E8%8D%AF-23.jpg" media-type="image/jpeg" />
+		<item id="瑶药-24.jpg" href="image/%E7%91%B6%E8%8D%AF-24.jpg" media-type="image/jpeg" />
+		<item id="瑶药-25.jpg" href="image/%E7%91%B6%E8%8D%AF-25.jpg" media-type="image/jpeg" />
+		<item id="瑶药-26.jpg" href="image/%E7%91%B6%E8%8D%AF-26.jpg" media-type="image/jpeg" />
+		<item id="瑶药_画板_1.jpg" href="image/%E7%91%B6%E8%8D%AF_%E7%94%BB%E6%9D%BF_1.jpg" media-type="image/jpeg" />
+		<item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript" />
+	</manifest>
+	<spine>
+		<itemref idref="yy-1" properties="page-spread-right" />
+		<itemref idref="yy-2" properties="page-spread-left" />
+		<itemref idref="yy-3" properties="page-spread-right" />
+		<itemref idref="yy-4" properties="page-spread-left" />
+		<itemref idref="yy-5" properties="page-spread-right" />
+		<itemref idref="yy-6" properties="page-spread-left" />
+		<itemref idref="yy-7" properties="page-spread-right" />
+		<itemref idref="yy-8" properties="page-spread-left" />
+		<itemref idref="yy-9" properties="page-spread-right" />
+		<itemref idref="yy-10" properties="page-spread-left" />
+		<itemref idref="yy-11" properties="page-spread-right" />
+		<itemref idref="yy-12" properties="page-spread-left" />
+		<itemref idref="yy-13" properties="page-spread-right" />
+		<itemref idref="yy-14" properties="page-spread-left" />
+		<itemref idref="yy-15" properties="page-spread-right" />
+		<itemref idref="yy-16" properties="page-spread-left" />
+		<itemref idref="yy-17" properties="page-spread-right" />
+		<itemref idref="yy-18" properties="page-spread-left" />
+		<itemref idref="yy-19" properties="page-spread-right" />
+		<itemref idref="yy-20" properties="page-spread-left" />
+		<itemref idref="yy-21" properties="page-spread-right" />
+		<itemref idref="yy-22" properties="page-spread-left" />
+		<itemref idref="yy-23" properties="page-spread-right" />
+		<itemref idref="yy-24" properties="page-spread-left" />
+		<itemref idref="yy-25" properties="page-spread-right" />
+		<itemref idref="yy-26" properties="page-spread-left" />
+		<itemref idref="yy-27" properties="page-spread-right" />
+		<itemref idref="yy-28" properties="page-spread-left" />
+	</spine>
+</package>
